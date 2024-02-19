@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-idk
+title: Welcome to mafews blog
 ---
 
